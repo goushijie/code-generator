@@ -41,7 +41,7 @@ import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 
 /**
- * @author heyx
+ *
  */
 public class TemplateEditorConfigurable extends MasterDetailsComponent implements SearchableConfigurable {
 

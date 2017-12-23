@@ -5,7 +5,7 @@ import java.util.Map;
 import org.junit.Test;
 
 /**
- * @author heyx
+ *
  */
 public class VelocityUtilsTest {
 

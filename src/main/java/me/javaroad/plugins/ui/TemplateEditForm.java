@@ -20,7 +20,7 @@ import org.jetbrains.annotations.Nls;
 import org.jetbrains.annotations.Nullable;
 
 /**
- * @author heyx
+ *
  */
 public class TemplateEditForm extends NamedConfigurable<Template> {
 

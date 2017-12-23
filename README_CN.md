@@ -1,10 +1,8 @@
 
-
 # Code Generator
 
-[English](./README.md) | 中文
 
-`CodeGenerator`，是一款用于`Intellj IDEA`的代码生成器插件，可以根据数据库实体对象(Entity/Domain)，通过自定义或是使用默认的模板，生成对应的`Java`代码。
+`CodeGenerator`，是用于`Intellj IDEA`的代码生成器插件，可以根据数据库实体对象(Entity/Domain)，通过自定义或是使用默认的模板，生成对应的`Java`代码。
 
 ## 插件特性
 
@@ -14,8 +12,6 @@
 
 ## 下载插件
 
-- 下载 Release 版本到本地安装 [Code Generator](https://github.com/heyuxian/code-generator/releases)
-- 在 IntelliJ plugin repository 中搜索 `Code Generator` 下载安装.
 
 ## 配置模板
 
@@ -28,11 +24,6 @@
 ![generator](https://user-images.githubusercontent.com/30259465/33077119-d7486400-cf09-11e7-93f8-937c7a5ca53e.gif)
 
 
-
-
-## 问题及建议
-
-如果你发现了任何bug，请 [创建新issue](https://github.com/heyuxian/code-generator/issues/new) 。最后，如果你觉得本项目对你有所帮助，请点赞支持，同时也欢迎提 PR 参与到本项目中。
 
 ## License
 

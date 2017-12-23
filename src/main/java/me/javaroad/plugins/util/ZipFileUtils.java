@@ -19,7 +19,7 @@ import me.javaroad.plugins.model.Template;
 import me.javaroad.plugins.model.TemplateGroup;
 
 /**
- * @author heyx
+ *
  */
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public class ZipFileUtils {

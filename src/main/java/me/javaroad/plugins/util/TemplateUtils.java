@@ -22,7 +22,7 @@ import org.apache.commons.lang.StringUtils;
 import org.apache.commons.lang.time.DateFormatUtils;
 
 /**
- * @author heyx
+ *
  */
 @Log4j
 public abstract class TemplateUtils {

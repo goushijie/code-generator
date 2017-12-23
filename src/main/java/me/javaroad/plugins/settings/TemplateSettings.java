@@ -16,7 +16,7 @@ import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 
 /**
- * @author heyx
+ *
  */
 @State(name = "CodeGeneratorSettings", storages = {@Storage("$APP_CONFIG$/code-generator-settings.xml")})
 public class TemplateSettings implements PersistentStateComponent<TemplateSettings> {

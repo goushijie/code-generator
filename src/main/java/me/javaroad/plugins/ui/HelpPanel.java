@@ -8,7 +8,7 @@ import javax.swing.event.HyperlinkEvent.EventType;
 import lombok.Getter;
 
 /**
- * @author heyx
+ *
  */
 public class HelpPanel {
 

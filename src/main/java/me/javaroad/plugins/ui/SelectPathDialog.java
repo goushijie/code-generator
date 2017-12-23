@@ -20,7 +20,7 @@ import org.apache.commons.lang.StringUtils;
 import org.jetbrains.annotations.Nullable;
 
 /**
- * @author heyx
+ *
  */
 public class SelectPathDialog extends DialogWrapper {
 
